@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-25T17:15:23 IST" name="Suite" finished-at="2021-09-25T17:16:11 IST" duration-ms="47616">
+    <groups>
+    </groups>
+    <test started-at="2021-09-25T17:15:23 IST" name="Test" finished-at="2021-09-25T17:16:11 IST" duration-ms="47616">
+      <class name="loginpagetest.TestLoginPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:loginpagetest.TestLoginPage@4df50bcc]" started-at="2021-09-25T17:15:24 IST" name="setup" finished-at="2021-09-25T17:15:47 IST" duration-ms="22601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:loginpagetest.TestLoginPage@4df50bcc]" started-at="2021-09-25T17:15:47 IST" name="goToLoginPage" finished-at="2021-09-25T17:15:54 IST" duration-ms="7221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="testLoginWithValidCredential()[pri:1, instance:loginpagetest.TestLoginPage@4df50bcc]" started-at="2021-09-25T17:15:54 IST" name="testLoginWithValidCredential" finished-at="2021-09-25T17:16:04 IST" duration-ms="10156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithValidCredential -->
+        <test-method is-config="true" signature="goToLoginPage()[pri:0, instance:loginpagetest.TestLoginPage@4df50bcc]" started-at="2021-09-25T17:16:05 IST" name="goToLoginPage" finished-at="2021-09-25T17:16:07 IST" duration-ms="2777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method signature="testLoginWithInvalidCredential()[pri:2, instance:loginpagetest.TestLoginPage@4df50bcc]" started-at="2021-09-25T17:16:07 IST" name="testLoginWithInvalidCredential" finished-at="2021-09-25T17:16:10 IST" duration-ms="2921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithInvalidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:loginpagetest.TestLoginPage@4df50bcc]" started-at="2021-09-25T17:16:10 IST" name="tearDown" finished-at="2021-09-25T17:16:11 IST" duration-ms="709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- loginpagetest.TestLoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

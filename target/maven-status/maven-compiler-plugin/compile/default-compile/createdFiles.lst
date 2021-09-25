@@ -1,0 +1,4 @@
+pages/LoginPage.class
+factory/DriverFactory.class
+configreader/ConfigPropReader.class
+pages/ManagerHomepage.class

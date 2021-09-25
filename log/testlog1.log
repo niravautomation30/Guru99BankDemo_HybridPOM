@@ -1,0 +1,84 @@
+2021-09-25 12:35:55,783 [main] INFO ebanking - URL is opened
+2021-09-25 12:35:56,004 [main] INFO ebanking - Entered username
+2021-09-25 12:35:56,168 [main] INFO ebanking - Entered password
+2021-09-25 12:36:03,023 [main] INFO ebanking - testLoginWithValidCredential Pass
+2021-09-25 13:02:17,878 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:02:18,856 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:02:18,975 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:02:30,391 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass
+2021-09-25 13:04:22,036 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:04:22,219 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:04:22,360 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:04:36,720 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass
+2021-09-25 13:09:13,287 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:09:13,501 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:09:14,086 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:09:21,996 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass
+2021-09-25 13:13:27,222 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:13:27,410 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:13:27,577 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:16:52,740 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:16:52,928 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:16:53,085 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:19:57,008 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:19:57,196 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:19:57,343 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:20:06,630 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass
+2021-09-25 13:26:59,624 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:26:59,975 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:27:00,192 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:27:08,266 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass
+2021-09-25 13:28:02,790 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:28:02,955 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:28:03,206 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:31:55,051 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:31:55,275 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:31:55,441 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:37:35,405 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:37:35,913 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:37:36,048 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 13:43:34,552 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 13:43:34,725 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 13:43:34,882 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 14:49:40,657 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 14:49:42,346 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 14:49:42,539 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 14:57:14,093 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 14:57:15,201 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 14:57:15,311 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:11:11,739 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:11:11,954 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:11:12,001 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:17:46,876 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:17:47,066 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:17:47,225 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:17:54,297 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
+2021-09-25 15:20:09,180 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:20:09,337 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:20:09,487 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:20:17,173 [main] INFO Guru99BankDemo - testLoginWithValidCredential Fail.
+2021-09-25 15:22:30,613 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:22:30,762 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:22:30,925 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:22:33,944 [main] INFO Guru99BankDemo - testLoginWithValidCredential Fail.
+2021-09-25 15:30:43,399 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:30:43,604 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:30:43,717 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:30:50,514 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
+2021-09-25 15:35:42,888 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:35:43,074 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:35:43,192 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:35:50,425 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
+2021-09-25 15:45:48,085 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 15:45:48,541 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 15:45:48,698 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 15:45:57,639 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
+2021-09-25 16:22:29,638 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 16:22:30,558 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 16:22:30,745 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 16:22:39,545 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
+2021-09-25 17:03:53,998 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 17:15:54,731 [main] INFO Guru99BankDemo - URL is opened
+2021-09-25 17:15:55,194 [main] INFO Guru99BankDemo - Entered username
+2021-09-25 17:15:55,343 [main] INFO Guru99BankDemo - Entered password
+2021-09-25 17:16:04,828 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
