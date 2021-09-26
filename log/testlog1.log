@@ -82,3 +82,245 @@
 2021-09-25 17:15:55,194 [main] INFO Guru99BankDemo - Entered username
 2021-09-25 17:15:55,343 [main] INFO Guru99BankDemo - Entered password
 2021-09-25 17:16:04,828 [main] INFO Guru99BankDemo - testLoginWithValidCredential Pass.
+2021-09-26 12:46:58,482 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 12:46:59,426 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 12:46:59,565 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 12:50:35,078 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 12:50:35,218 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 12:50:35,356 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 13:31:25,864 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:31:26,225 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 13:31:26,426 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 13:37:55,093 [TestNG-test=Test-1] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:37:56,578 [TestNG-test=Test-1] INFO Guru99BankDemo - Entered username
+2021-09-26 13:37:56,754 [TestNG-test=Test-1] INFO Guru99BankDemo - Entered password
+2021-09-26 13:38:44,027 [TestNG-tests-1] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:38:44,168 [TestNG-tests-1] INFO Guru99BankDemo - Entered username
+2021-09-26 13:38:44,317 [TestNG-tests-1] INFO Guru99BankDemo - Entered password
+2021-09-26 13:42:08,541 [TestNG-test=Test-1] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:42:09,996 [TestNG-test=Test-1] INFO Guru99BankDemo - Entered username
+2021-09-26 13:42:10,173 [TestNG-test=Test-1] INFO Guru99BankDemo - Entered password
+2021-09-26 13:49:42,973 [TestNG-test=Test-2] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:49:44,547 [TestNG-test=Test-2] INFO Guru99BankDemo - Entered username
+2021-09-26 13:49:44,720 [TestNG-test=Test-2] INFO Guru99BankDemo - Entered password
+2021-09-26 13:52:47,519 [TestNG-test=Test-2] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:52:49,120 [TestNG-test=Test-2] INFO Guru99BankDemo - Entered username
+2021-09-26 13:52:49,280 [TestNG-test=Test-2] INFO Guru99BankDemo - Entered password
+2021-09-26 13:56:44,205 [TestNG-test=Test-2] INFO Guru99BankDemo - URL is opened
+2021-09-26 13:56:46,583 [TestNG-test=Test-2] INFO Guru99BankDemo - Entered username
+2021-09-26 13:56:46,864 [TestNG-test=Test-2] INFO Guru99BankDemo - Entered password
+2021-09-26 16:02:24,857 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:02:25,467 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:02:25,622 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:02:28,760 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:02:28,879 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:02:29,025 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:02:29,192 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:02:29,357 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:02:29,526 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:02:29,680 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:02:29,835 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:02:30,011 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:02:30,229 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:02:31,517 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:02:31,631 [main] INFO Guru99BankDemo - Customer ID : 75422
+2021-09-26 16:02:31,664 [main] INFO Guru99BankDemo - Customer Registered Successfully!!!
+2021-09-26 16:02:36,649 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:02:36,770 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:02:36,914 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:02:39,010 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:02:39,131 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:02:39,412 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:02:39,538 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:02:39,666 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:02:39,798 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:02:39,942 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:02:40,084 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:02:40,249 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:02:40,412 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:02:41,994 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:02:42,092 [main] INFO Guru99BankDemo - Customer ID : 7221
+2021-09-26 16:02:42,093 [main] INFO Guru99BankDemo - Customer Registered Successfully!!!
+2021-09-26 16:02:43,475 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:02:43,593 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:02:43,731 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:11:02,537 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:11:02,719 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:11:02,875 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:11:04,849 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:11:04,991 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:11:05,097 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:11:05,246 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:11:05,437 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:11:05,585 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:11:05,692 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:11:05,854 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:11:05,998 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:11:06,192 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:11:06,347 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:11:06,634 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:11:15,116 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:11:15,243 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:11:15,374 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:11:18,402 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:11:18,566 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:11:18,675 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:11:18,807 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:11:18,936 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:11:19,076 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:11:19,214 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:11:19,356 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:11:19,507 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:11:19,675 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:11:19,822 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:11:19,937 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:11:26,325 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:11:26,452 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:11:26,601 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:11:28,762 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:16:20,309 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:16:21,398 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:16:21,509 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:16:24,263 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:16:24,388 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:16:24,488 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:16:24,593 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:16:24,683 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:16:24,811 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:16:24,944 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:16:25,088 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:16:25,221 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:16:25,397 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:16:25,535 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:16:26,334 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:16:32,479 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:16:32,605 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:16:32,744 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:16:34,224 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:16:34,378 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:16:34,490 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:16:34,627 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:16:34,741 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:16:34,872 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:16:35,003 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:16:35,137 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:16:35,281 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:16:35,451 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:16:35,603 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:16:36,389 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:16:38,272 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:16:38,397 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:16:38,517 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:16:40,040 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:20:15,147 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:20:15,286 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:20:15,453 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:20:17,404 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:20:17,543 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:20:17,641 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:20:17,773 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:20:17,904 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:20:18,056 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:20:18,202 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:20:18,332 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:20:18,496 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:20:18,672 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:20:18,808 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:20:20,406 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:20:20,508 [main] INFO Guru99BankDemo - Customer ID : 5407
+2021-09-26 16:20:20,541 [main] INFO Guru99BankDemo - testAddCutomer Pass
+2021-09-26 16:20:22,636 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:20:22,770 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:20:22,907 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:20:24,291 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:20:24,451 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:20:24,577 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:20:24,722 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:20:24,836 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:20:24,972 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:20:25,094 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:20:25,230 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:20:25,374 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:20:25,555 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:20:25,699 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:20:27,387 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:20:27,478 [main] INFO Guru99BankDemo - Customer ID : 54662
+2021-09-26 16:20:27,479 [main] INFO Guru99BankDemo - testAddCutomer Pass
+2021-09-26 16:20:38,175 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:20:38,307 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:20:38,436 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:20:40,258 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:26:53,614 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:26:53,798 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:26:53,956 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:26:56,366 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:26:56,525 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:26:56,653 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:26:56,815 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:26:56,961 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:26:57,106 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:26:57,242 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:26:57,383 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:26:57,525 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:26:57,694 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:26:57,832 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:26:58,805 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:27:01,845 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:27:01,979 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:27:02,108 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:27:03,688 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:27:03,822 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:27:03,944 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:27:04,086 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:27:04,208 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:27:04,340 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:27:04,476 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:27:04,619 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:27:04,760 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:27:04,942 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:27:05,061 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:27:07,112 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:27:07,228 [main] INFO Guru99BankDemo - Customer ID : 81584
+2021-09-26 16:27:07,231 [main] INFO Guru99BankDemo - testAddCutomer Pass
+2021-09-26 16:27:08,570 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:27:08,693 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:27:08,828 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:27:10,485 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:38:57,585 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:38:57,772 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:38:57,908 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:39:00,146 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:39:00,307 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:39:00,442 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:39:00,599 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:39:00,780 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:39:00,917 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:39:01,062 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:39:01,216 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:39:01,374 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:39:01,583 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:39:01,722 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:39:03,090 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:39:03,203 [main] INFO Guru99BankDemo - Customer ID : 39125
+2021-09-26 16:39:03,206 [main] INFO Guru99BankDemo - testAddCutomer Pass
+2021-09-26 16:39:04,848 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:39:04,965 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:39:05,107 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:39:06,602 [main] INFO Guru99BankDemo - Clicked on Add New Customer
+2021-09-26 16:39:06,726 [main] INFO Guru99BankDemo - Entered customer name
+2021-09-26 16:39:06,854 [main] INFO Guru99BankDemo - Entered customer gender
+2021-09-26 16:39:07,001 [main] INFO Guru99BankDemo - Entered customer DOB
+2021-09-26 16:39:07,112 [main] INFO Guru99BankDemo - Entered customer address
+2021-09-26 16:39:07,247 [main] INFO Guru99BankDemo - Entered customer city
+2021-09-26 16:39:07,383 [main] INFO Guru99BankDemo - Entered customer state
+2021-09-26 16:39:07,526 [main] INFO Guru99BankDemo - Entered customer pinno
+2021-09-26 16:39:07,666 [main] INFO Guru99BankDemo - Entered customer mobileno
+2021-09-26 16:39:07,839 [main] INFO Guru99BankDemo - Entered customer email
+2021-09-26 16:39:07,984 [main] INFO Guru99BankDemo - Entered customer password
+2021-09-26 16:39:09,509 [main] INFO Guru99BankDemo - Click on Submit Button
+2021-09-26 16:39:09,607 [main] INFO Guru99BankDemo - Customer ID : 33421
+2021-09-26 16:39:09,608 [main] INFO Guru99BankDemo - testAddCutomer Pass
+2021-09-26 16:39:11,077 [main] INFO Guru99BankDemo - URL is opened
+2021-09-26 16:39:11,201 [main] INFO Guru99BankDemo - Entered username
+2021-09-26 16:39:11,341 [main] INFO Guru99BankDemo - Entered password
+2021-09-26 16:39:12,808 [main] INFO Guru99BankDemo - Clicked on Add New Customer

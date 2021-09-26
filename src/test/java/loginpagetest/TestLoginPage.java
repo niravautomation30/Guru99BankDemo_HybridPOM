@@ -9,8 +9,8 @@ import pages.ManagerHomepage;
 
 public class TestLoginPage extends TestBase {
 
-	@Test(priority = 1)
-	public void testLoginWithValidCredential() throws InterruptedException, IOException {
+	@Test
+	public void testLoginWithValidCredential() throws InterruptedException, IOException {		
 		logger.info("URL is opened");
 		
 		loginpage.enterUsername(cpr.getUsername());
@@ -23,23 +23,12 @@ public class TestLoginPage extends TestBase {
 		
 		String actManagerID = manager.getManagerID();
 		
-//		Assert.assertEquals(actManagerID, "Manger Id : mngr355479", "Invalid Manager Id");
+		Assert.assertEquals(actManagerID, "Manger Id : mngr355479", "Invalid Manager Id");
 		
-		if(actManagerID.equals("Manger Id : mngr355479"))
-		{
-			manager.clickLogout();
-			logger.info("testLoginWithValidCredential Pass.");
-			Assert.assertTrue(true);
-		}
-		else
-		{
-			captureScreen(driver,"testLoginWithValidCredential");
-			logger.info("testLoginWithValidCredential Fail.");
-			Assert.assertTrue(false);
-		}
+		manager.clickLogout();
 	}
 	
-	@Test(priority = 2)
+	@Test
 	public void testLoginWithInvalidCredential() {	
 		loginpage.enterInvalidCredential("asd","123");
 		loginpage.clickLoginBtn();

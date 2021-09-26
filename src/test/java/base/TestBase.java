@@ -2,6 +2,8 @@ package base;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
@@ -10,21 +12,20 @@ import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
-import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
 import configreader.ConfigPropReader;
 import factory.DriverFactory;
 import pages.LoginPage;
+import pages.ManagerHomepage;
 
 public class TestBase {
 
 	public DriverFactory df;
 	public ConfigPropReader cpr;
-	public WebDriver driver;
+	public static WebDriver driver;
 	public LoginPage loginpage;
 	public static Logger logger;
 
@@ -44,13 +45,6 @@ public class TestBase {
 		driver.get(cpr.getURL());
 		loginpage = new LoginPage(driver);
 	}
-
-//	@AfterMethod
-//	public void takeScreenshotWhenFail(ITestResult result) throws IOException {
-//		if (result.getStatus() == ITestResult.FAILURE) {
-//			captureScreen(driver, result.getName());
-//		}
-//	}
 
 	@AfterClass
 	public void tearDown() {
@@ -73,5 +67,37 @@ public class TestBase {
 	public static String randomeNum() {
 		String generatedString2 = RandomStringUtils.randomNumeric(4);
 		return (generatedString2);
+	}
+	
+	public static String takeScreenshot(WebDriver driver, String tname) throws IOException {
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		String destination = System.getProperty("user.dir") + "/Screenshots/" + tname + "_" + getDate() + ".png";
+		File target = new File(destination);
+		FileUtils.copyFile(source, target);
+		System.out.println("Screenshot taken");
+		return destination;
+	}
+	
+	public static String getDate() {
+		long time = System.currentTimeMillis();
+		SimpleDateFormat userformat = new SimpleDateFormat("MMM-dd-yyyy-HH-mm-ss");
+		Date date = new Date(time);
+		String newDate = userformat.format(date);
+		return newDate;
+
+	}
+	
+	public ManagerHomepage loginIntoBank() {
+		logger.info("URL is opened");
+
+		loginpage.enterUsername(cpr.getUsername());
+		logger.info("Entered username");
+
+		loginpage.enterPassword(cpr.getPassword());
+		logger.info("Entered password");
+
+		ManagerHomepage manager = loginpage.clickLoginBtn();
+		return manager;
 	}
 }

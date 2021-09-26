@@ -3,8 +3,6 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import configreader.ConfigPropReader;
-
 public class LoginPage {
 
 	private WebDriver driver;
@@ -34,6 +32,7 @@ public class LoginPage {
 		boolean alert = isAlertPresent();
 		if (alert) {
 			driver.switchTo().alert().accept();
+			driver.switchTo().defaultContent();
 		}
 		return new ManagerHomepage(driver);
 	}

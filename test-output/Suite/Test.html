@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>2/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sat Sep 25 15:22:21 IST 2021</td>
+<td>Started on:</td><td>Sun Sep 26 16:38:46 IST 2021</td>
 </tr>
-<tr><td>Total time:</td><td>15 seconds (15545 ms)</td>
+<tr><td>Total time:</td><td>26 seconds (26668 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -75,17 +75,18 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='loginpagetest.TestLoginPage.testLoginWithValidCredential()'><b>testLoginWithValidCredential</b><br>Test class: loginpagetest.TestLoginPage</td>
-<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
-	at loginpagetest.TestLoginPage.testLoginWithValidCredential(TestLoginPage.java:39)
+<td title='addcustomerpagetest.TestAddCutomerPage.testAddCutomerHeader()'><b>testAddCutomerHeader</b><br>Test class: addcustomerpagetest.TestAddCutomerPage</td>
+<td><div><pre>java.lang.AssertionError: Invalid Header expected [Add New Customer123] but found [Add New Customer]
+	at addcustomerpagetest.TestAddCutomerPage.testAddCutomerHeader(TestAddCutomerPage.java:22)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 31 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace2078517710", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace2078517710'><pre>java.lang.AssertionError: expected [true] but found [false]
+... Removed 32 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace146605930", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace146605930'><pre>java.lang.AssertionError: Invalid Header expected [Add New Customer123] but found [Add New Customer]
 	at org.testng.Assert.fail(Assert.java:99)
 	at org.testng.Assert.failNotEquals(Assert.java:1037)
-	at org.testng.Assert.assertTrue(Assert.java:45)
-	at org.testng.Assert.assertTrue(Assert.java:55)
-	at loginpagetest.TestLoginPage.testLoginWithValidCredential(TestLoginPage.java:39)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at addcustomerpagetest.TestAddCutomerPage.testAddCutomerHeader(TestAddCutomerPage.java:22)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -115,8 +116,8 @@ function toggleAllBoxes() {
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 </pre></div></td>
-<td>3</td>
-<td>loginpagetest.TestLoginPage@15c43bd9</td></tr>
+<td>1</td>
+<td>addcustomerpagetest.TestAddCutomerPage@39529185</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -126,10 +127,15 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='loginpagetest.TestLoginPage.testLoginWithInvalidCredential()'><b>testLoginWithInvalidCredential</b><br>Test class: loginpagetest.TestLoginPage</td>
+<td title='addcustomerpagetest.TestAddCutomerPage.testAddCutomer()'><b>testAddCutomer</b><br>Test class: addcustomerpagetest.TestAddCutomerPage<br>Parameters: nirav, m, 01/12/2001, Surat, Surat, Gujarat, 400001, 5912345780, hello.12@gmail.com, hellonirav123</td>
 <td></td>
-<td>0</td>
-<td>loginpagetest.TestLoginPage@15c43bd9</td></tr>
+<td>5</td>
+<td>addcustomerpagetest.TestAddCutomerPage@39529185</td></tr>
+<tr>
+<td title='addcustomerpagetest.TestAddCutomerPage.testAddCutomer()'><b>testAddCutomer</b><br>Test class: addcustomerpagetest.TestAddCutomerPage<br>Parameters: chaitali, f, 14/11/2001, Surat, Surat, Gujarat, 400001, 5821470236, Hello.11@gmail.com, hellochetu45</td>
+<td></td>
+<td>4</td>
+<td>addcustomerpagetest.TestAddCutomerPage@39529185</td></tr>
 </table><p>
 </body>
 </html>

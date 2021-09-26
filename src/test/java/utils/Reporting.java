@@ -17,8 +17,9 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
-import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
+
+import base.TestBase;
 
 public class Reporting extends TestListenerAdapter
 {
@@ -38,13 +39,15 @@ public class Reporting extends TestListenerAdapter
 		extent=new ExtentReports();
 		
 		extent.attachReporter(htmlReporter);
+		
 		extent.setSystemInfo("Host name","localhost");
+		extent.setSystemInfo("OS","Ubuntu20");
 		extent.setSystemInfo("Environemnt","QA");
-		extent.setSystemInfo("user","nirav");
+		extent.setSystemInfo("Tester","nirav");
 		
 		htmlReporter.config().setDocumentTitle("Guru99BankDemo Test Project"); // Tile of report
 		htmlReporter.config().setReportName("Functional Test Automation Report"); // name of the report
-		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); //location of the chart
+//		htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); //location of the chart
 		htmlReporter.config().setTheme(Theme.DARK);
 	}
 	
@@ -59,14 +62,21 @@ public class Reporting extends TestListenerAdapter
 		logger=extent.createTest(tr.getName()); // create new entry in th report
 		logger.log(Status.FAIL,MarkupHelper.createLabel(tr.getName(),ExtentColor.RED)); // send the failed information to the report with Red color highlighted
 		
-		String screenshotPath=System.getProperty("user.dir")+"/Screenshots/"+tr.getName()+".png";
-		
+//		String screenshotPath=System.getProperty("user.dir")+"/Screenshots/"+tr.getName()+".png";
+
+		String screenshotPath = null;
+		try {
+			screenshotPath = TestBase.takeScreenshot(TestBase.driver, tr.getName());
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
 		File f = new File(screenshotPath); 
 		
 		if(f.exists())
 		{
 		try {
-			logger.fail("Screenshot is below:" + logger.addScreenCaptureFromPath(screenshotPath));
+			logger.fail("Exception is  : " + tr.getThrowable());
+			logger.fail("Screenshot is below : " + logger.addScreenCaptureFromPath(screenshotPath));
 			} 
 		catch (IOException e) 
 				{
@@ -86,4 +96,5 @@ public class Reporting extends TestListenerAdapter
 	{
 		extent.flush();
 	}
+		
 }
