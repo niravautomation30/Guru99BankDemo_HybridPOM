@@ -19,7 +19,7 @@ public class TestAddCutomerPage extends TestBase {
 		logger.info("Clicked on Add New Customer");
 		
 		String actHeader = addctmr.getHeader();
-		Assert.assertEquals(actHeader, "Add New Customer123", "Invalid Header");
+		Assert.assertEquals(actHeader, "Add New Customer", "Invalid Header");
 		logger.info("testAddCutomerHeader Pass");
 	}
 
